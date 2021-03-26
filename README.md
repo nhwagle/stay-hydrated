@@ -1,2 +1,3 @@
 # stay-hydrated
-App to alert elderly users when their hydration levels are low
+MedHacks 2018 Project, Placed in Top 10
+https://devpost.com/software/stayhydrated
